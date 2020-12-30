@@ -20,8 +20,8 @@ def find_places(place, type, keyword, radius):
         res = json.loads(response.text)
     else:
         query = type + '+in+' + place.replace(', ', '+')
-        url = 'https://maps.googleapis.com/maps/api/place/textsearch/json?query={}&key=AIzaSyAU3Z7XiTGIorugANNLOj2snKJUrb8RyPk'.format(
-            query)
+        url = 'https://maps.googleapis.com/maps/api/place/textsearch/json?query={}&key={}'.format(
+            query,API_KEY)
         response = requests.get(url)
         res = res = json.loads(response.text)
     return res
@@ -89,7 +89,7 @@ while True:
                 url = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?pagetoken={}&key={}'.format(
                     next_page_token, API_KEY)
             elif n=='2':
-                url = 'https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken={}&key=AIzaSyAU3Z7XiTGIorugANNLOj2snKJUrb8RyPk'.format(next_page_token)
+                url = 'https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken={}&key={}'.format(next_page_token,API_KEY)
             # print(url)
             time.sleep(5)
             response = requests.get(url)
