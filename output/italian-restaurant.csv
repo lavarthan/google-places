@@ -1,0 +1,21 @@
+No.,name,address,types,,business_status,rating,user_ratings_total
+0,Prego,"Iffco Chowk, Number 1, Mehrauli-Gurgaon Rd, Sector 29, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,4.2,207
+1,The Pasta Bowl Company,"2nd Floor, Cross Point Mall, DLF Phase IV, Sector 28, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,4.4,830
+2,Dj's Pizza & Pasta,"Shop 18, 1st Floor, Baba Chitru Complex, Wazirabad, Sector 52, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,4.1,277
+3,Pomodoro Bistro,"UGF, H-222, Sushant Shopping Arcade, Sushant Lok Phase 1, Sushant Lok, Block B, Sector 43, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,4.1,123
+4,Sorriso kitchen Gurgaon,"E 33 Sushnat, opp. Paras Hospital, E - Block, Sushant Lok Phase I, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,5,20
+5,Tiny Tuscan,"1st floor SF-16, Galleria Market, DLF Phase IV, Gurugram","restaurant, food, point_of_interest, store, establishment",,OPERATIONAL,4.6,101
+6,The Millionaire Pizza & Pasta,"Vakil market, Khasra No 48/1, Shiva Market, Near, DLF Phase IV, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,3.2,46
+7,Pizza Northeast,"2825, DLF Galleria Rd, Jaina Market, DLF Phase IV, Sector 28, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,4,24
+8,CNP Restaurant,"Shop No. 1, Ground Floor, Vyapar Kendra Rd, Sushant Lok Phase I, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,0,0
+9,The Millionaire Pizza and Pasta,"F-27 Baani Square Sector 50, Pocket C, Mayfield Garden, Sector 50, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,3.4,73
+10,La Pino'z Pizza,"Sco- 19, 1st Floor, Main Market, Huda Market, Sector-31, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,4.1,406
+11,Slice Of Italy,"80-P, Huda Market Rd, Sector 15 Part 2, Sector 15, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,3.5,195
+12,Bella Cucina - Le Meridien Gurgaon,"Le Meridien, Lobby Level, Mehrauli-Gurgaon Rd, Sector 26, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,4.5,108
+13,NYC PIE,"Pocket C, Mayfield Garden, Sector 51, Gurugram","meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",,OPERATIONAL,3.4,72
+14,SAGE,"MGF Metropolitan Mall, Shop No.3 3rd Floor Food Court, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,3.1,14
+15,Basil Tree,"931, Maruti Housing Colony, Sector 28, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,3.7,31
+16,Sakley's The Mountain Cafe,"SF -93, DLF Galleria Market, DLF Phase IV, Gurugram","restaurant, cafe, food, point_of_interest, store, establishment",,OPERATIONAL,4.5,615
+17,Fat Lulu's,"SCO 133, huda market, Sector 46 Road, Huda Colony, Sector 46, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,3.7,91
+18,White Bricx Cafe,"G 93-94, D block, Baani Square, 122018, Sector 50, Gurugram","cafe, restaurant, food, point_of_interest, establishment",,OPERATIONAL,4,371
+19,Pizza Pasta,"Gurugram,, Heritage City, Sector 25, Gurugram","restaurant, food, point_of_interest, establishment",,OPERATIONAL,3,1
