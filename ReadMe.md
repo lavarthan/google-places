@@ -1,5 +1,5 @@
 # Google palces
-This is used to extract the company details from the  [Crunchbase][1]
+This is used to extract the business place details using [Google places api][1] and [Google Geocoding api][2]
 
 ## How to install
 > STEP 1: Clone the repository
@@ -25,3 +25,6 @@ This is used to extract the company details from the  [Crunchbase][1]
 # :yum:
 
 <a href="https://www.buymeacoffee.com/th3darkknight" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+[1]: https://developers.google.com/places/web-service/overview
+[2]: https://developers.google.com/maps/documentation/geocoding/overview
